@@ -8,4 +8,4 @@ You can install and use this binray in archicanvas format to create a Wardley ma
 as of Archi 4.5 use rev2 of the canvas binary.
 Hope this helps.
 
-Thanks, -joke
+Have fun, -joke
